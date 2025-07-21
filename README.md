@@ -17,7 +17,7 @@ A full-stack collaborative document editor inspired by Notion, featuring real-ti
 ## Project Structure
 
 ```text
-Notion/
+Capstone-Notion/
   backend/      # Express + Socket.io server, Firebase Admin
   frontend/     # React + Vite client, Tiptap editor, Firebase client
 ```
