@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 text-gray-900 font-sans;
+}
+.text-border {
+  -webkit-text-stroke: 2px rgb(255, 255, 255);  
+  color: rgb(0, 0, 0);  
+}
+
+.btn {
+  @apply px-3 py-1 rounded bg-white border border-gray-300 hover:bg-gray-200 text-sm cursor-pointer;
+}
+
+
+ .ProseMirror {
+  /* min-height: 200px; */
+  padding: 1rem;
+  &:focus {
+    outline: none;
+  }
+}
+
