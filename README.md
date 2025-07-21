@@ -39,7 +39,7 @@ Notion/
 
 ```bash
 git https://github.com/Akash-minfy/Capstone-Notion.git
-cd Notion
+cd Capstone-Notion
 ```
 
 ---
