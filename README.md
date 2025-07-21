@@ -38,7 +38,7 @@ Notion/
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/Akash-minfy/Capstone-Notion.git
+git clone https://github.com/Akash-minfy/Capstone-Notion.git
 cd Capstone-Notion
 ```
 
